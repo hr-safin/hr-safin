@@ -1,4 +1,4 @@
-<h1 style="color: #009FBD; font-weight:bold">Hasibur Rahman Safin</h1>
+<h1 align="center" style="color: #009FBD; font-weight:bold">Hi, I am Hasibur Rahman Safin</h1>
 <h3>A Dedicated Full Stack Developer </h3>
 
  🔭 I’m currently working on MERN stack project<br> 🌱 I’m currently learning mongodb<br> 👯 I’m looking to collaborate on github<br> 💬 Ask me about react.js, node js next.js<br> 📫 How to reach me: hrsafin2434@gmail.com<br> ⚡ Fun fact: I hacked nasa using HTML
