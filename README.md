@@ -1,8 +1,8 @@
-
+<img src="./Black Gaming Desktop Wallpaper.png" />
 
 
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
-<h2 align="center">A Dedicated Mern Stack Developer </h2>
+<h2 align="center">I'm a passionate MERN Stack Developer with a love for building efficient and scalable web applications. </h2>
 
  🔭 I’m currently working on MERN stack project<br> 🌱 I’m currently learning mongodb<br> 👯 I’m looking to collaborate on github<br> 💬 Ask me about react.js, node js next.js<br> 📫 How to reach me: hasiburrahmansafin76@gmail.com<br> 
 
