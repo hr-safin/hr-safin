@@ -4,7 +4,7 @@
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
 <p>
 
-👋 Hi! Welcome to my github  I'm Hasibur Rahman Safin , a dedicated MERN Stack Developer with a love for crafting efficient and scalable web applications. My toolbox includes MongoDB for flexible data storage, Express.js for seamless server-side development, React.js for building dynamic user interfaces, and Node.js for high-performance server applications.
+Welcome to my github! I'm Hasibur Rahman Safin , a dedicated MERN Stack Developer with a love for crafting efficient and scalable web applications. My toolbox includes MongoDB for flexible data storage, Express.js for seamless server-side development, React.js for building dynamic user interfaces, and Node.js for high-performance server applications.
 
 🔧 In my coding journey, I specialize in optimizing database queries, designing robust RESTful APIs, and creating responsive user interfaces that enhance the overall user experience. I thrive on the seamless integration of frontend and backend technologies, making the MERN stack my playground for innovation.
 
