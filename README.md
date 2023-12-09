@@ -12,9 +12,11 @@ Hi! 👋 I'm Hasibur Rahman Safin , a dedicated MERN Stack Developer with a love
 
 🌐 Let's connect and build something awesome together! 💻
 
+📧 Email : 
+ hasiburrahmansafin76@gmail.com  
+ 
 </p>
 
- 🔭 I’m currently working on MERN stack project<br> 🌱 I’m currently learning mongodb<br> 👯 I’m looking to collaborate on github<br> 💬 Ask me about react.js, node js next.js<br> 📫 How to reach me: hasiburrahmansafin76@gmail.com<br> 
 
  [![](https://visitcount.itsvg.in/api?id=hr-safin&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -31,8 +33,7 @@ Hi! 👋 I'm Hasibur Rahman Safin , a dedicated MERN Stack Developer with a love
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hr-safin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-safin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hr-safin&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hr-safin&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -49,36 +50,12 @@ Technology Used : Tailwind Css, Material Tailwind, React Js, JWT,Firebase Authen
 
 ## Features Of TrackNParcel
 
-<h2>User Profile Management:<h2>
 <ul>
 
-<li>
-Users, including both regular users and delivery personnel, can manage their profiles on the "My Profile" page. This includes the ability to upload a profile picture and update other personal information. The page is designed with a user-friendly interface for easy profile customization.
-</li>
-</ul>
+<li>User Authentication based on their role</li>
+<li>Admin Statistics by booking date</li>
+<li>Users Location (React Leaflet Map)</li
 
-<h2>Admin Parcel Management:<h2>
-<ul>
-
-<li>
-In the Admin Dashboard, the "All Parcels" page provides an overview of all parcels booked by users. Admins can manage each parcel, including assigning delivery personnel, updating the status to "On The Way," and tracking the booking details. The admin can efficiently handle and organize parcel deliveries through this centralized management system.
-</li>
-</ul>
-
-<h2>Search and Filter Functionality:<h2>
-<ul>
-
-<li>
-The "All Parcels" page features a search system with date range filters, allowing admins to search for bookings within a specified time frame. This functionality enhances the efficiency of managing parcel data, especially when dealing with a large number of bookings.
-</li>
-</ul>
-
-<h2>Map Integration for Parcel Location:<h2>
-<ul>
-
-<li>
-A "See Location" button on the parcel details page opens a modal with an integrated map (using MapBox and React MapGL) displaying the delivery location. This feature allows users and delivery personnel to visualize the geographic location of the parcel for better coordination.
-</li>
 </ul>
 
 ## 🍱Chef Restaurant Website
@@ -89,25 +66,12 @@ Technology Used : Tailwind Css, Material Tailwind, React Js, JWT,Firebase Authen
 
 ## Top Features Of Chef Restaurant
 
-<h3>Pagination</h3>
-
 <ul>
-<li> Implement pagination for the food page to display a limited number of food items per page, providing a better user experience.</li>
-</ul>
-<h3>Food Purchase:</h3>
 
-<ul>
-<li> Users can purchase food items directly from the website, adding selected items to their cart and completing the purchase process.</li>
-</ul>
-<h3>Quantity Validation:</h3>
+<li>User login Authentication</li>
+<li>User can search food by the name of the item</li>
+<li>Pagination in all the food page for better user experience</li
 
-<ul>
-<li>Food items with a quantity of 0 are not available for purchase, ensuring accurate stock management.</li>
-</ul>
-<h3>MongoDB Integration:</h3>
-
-<ul>
-<li>Information about food items, orders, and user profiles is stored in a MongoDB database, making it easy to manage and retrieve data.</li>
 </ul>
 
 ## 📚Event Academia Website
@@ -120,35 +84,12 @@ Technology Used : Material Tailwind, React js, FirebaseAuthentication, Express j
 
 ## Features of EventAcademia
 
-<h3>Navigation Bar:<h3>
 <ul>
-<li>Provides easy access to all website sections, including Home, About, Services, Contact, Latest Events, Blog, Login, and Get Started.</li>
-<li>Dynamic changes based on user authentication status, displaying "Login" or "Logout" accordingly.</li>
-</ul>
-<h3>Service Page:<h3>
-<ul>
-<li>Displays six different educational and training event cards with images, titles, short descriptions, prices, and "View Details" buttons.</li>
-<li>Allows logged-in users to access detailed event information.</li>
-</ul>
-<h3>Latest Events:<h3>
-<ul>
-<li>Private route accessible only to logged-in users.</li>
-<li>Showcases the latest educational and training events.</li>
-</ul>
-<h3>Blog Page:<h3>
-<ul>
-<li>Private route accessible only to logged-in users.</li>
-<li>Features informative blog posts related to educational and training events.</li>
-</ul>
-<h3>User Authentication:<h3>
-<ul>
-<li>Utilizes Firebase authentication for user registration and login.</li>
-<li>Validates user-entered passwords for length, capital letters, and special characters.</li>
-</ul>
-<h3>Registration:<h3>
-<ul>
-<li>Enforces password complexity rules (minimum 6 characters, at least one capital letter, and one special character).</li>
-<li>Provides success messages upon successful registration.</li>
+
+<li>User login Authentication </li>
+<li>AOS animation for better user experience</li>
+<li>Shopping cart based on the user email</li
+
 </ul>
 
 
