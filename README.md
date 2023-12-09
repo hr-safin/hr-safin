@@ -1,4 +1,6 @@
-<img src="https://i.postimg.cc/LXwjznh6/Black-and-White-Gradient-Personal-Linked-In-Banner.png" />
+
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/hr-safin/hr-safin/assets/116538557/09ee976e-e357-4952-9f95-2d8a40f28206)
+
 
 
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
