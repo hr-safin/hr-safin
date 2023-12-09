@@ -14,7 +14,7 @@ Hi! 👋 I'm Hasibur Rahman Safin , a dedicated MERN Stack Developer with a love
 
 📧 Email : 
  hasiburrahmansafin76@gmail.com  
- 
+
 </p>
 
 
@@ -58,6 +58,8 @@ Technology Used : Tailwind Css, Material Tailwind, React Js, JWT,Firebase Authen
 
 </ul>
 
+<br/>
+
 ## 🍱Chef Restaurant Website
 
 Chef is an online restaurant platform enabling customers to order a variety of food items, including pizza and burgers and many more.🌐 [Chef Restaurant Website](https://fancy-queijadas-88c8dc.netlify.app/)
@@ -67,12 +69,11 @@ Technology Used : Tailwind Css, Material Tailwind, React Js, JWT,Firebase Authen
 ## Top Features Of Chef Restaurant
 
 <ul>
-
 <li>User login Authentication</li>
 <li>User can search food by the name of the item</li>
-<li>Pagination in all the food page for better user experience</li
-
+<li>Pagination in all the food page for better user experience</li>
 </ul>
+<br/>
 
 ## 📚Event Academia Website
 
@@ -92,6 +93,7 @@ Technology Used : Material Tailwind, React js, FirebaseAuthentication, Express j
 
 </ul>
 
+<br/>
 
 
 
