@@ -27,7 +27,18 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hr-safin&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
+
+
+## Recent Projects Live Link
+
+🌐 [TrackNParcel Website](https://quiet-raindrop-71b951.netlify.app/)
+
+🌐 [Chef Restaurant Website](https://fancy-queijadas-88c8dc.netlify.app/)
+
+🌐 [Event Academia](https://luxury-praline-1bfd6d.netlify.app/)
+
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
