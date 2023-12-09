@@ -1,8 +1,4 @@
-<img src="https://i.postimg.cc/gjhnYcDC/Black-Gaming-Desktop-Wallpaper-1.png" />
-
-
-
-https://github.com/hr-safin/hr-safin/assets/116538557/b9a088ed-c359-4b4a-97fd-ce5b52058971
+<img src="https://i.postimg.cc/LXwjznh6/Black-and-White-Gradient-Personal-Linked-In-Banner.png" />
 
 
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
