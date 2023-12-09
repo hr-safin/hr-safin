@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/tJMg8qrM/Black-Gaming-Desktop-Wallpaper.png" />
+<img src="https://i.postimg.cc/gjhnYcDC/Black-Gaming-Desktop-Wallpaper-1.png" />
 
 
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
