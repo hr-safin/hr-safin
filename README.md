@@ -42,60 +42,6 @@ Welcome to my github! I'm Hasibur Rahman Safin , a dedicated MERN Stack Develope
 
 
 
-# 🔥Recent Projects
-
-## 🛵TrackNParcel
-
-TrackNParcel, a dynamic MERN-based Parcel ManagementApp, offers a responsive platform for users to effortlessly book,track, and manage deliveries.🌐 [TrackNParcel Website](https://quiet-raindrop-71b951.netlify.app/)
-
-Technology Used : Tailwind Css, Material Tailwind, React Js, JWT,Firebase Authentication, Express Js, & MongoDB
-
-## Features Of TrackNParcel
-
-<ul>
-
-<li>User Authentication based on their role</li>
-<li>Admin Statistics by booking date</li>
-<li>Users Location (React Leaflet Map)</li
-
-</ul>
-
-<br/>
-
-## 🍱Chef Restaurant Website
-
-Chef is an online restaurant platform enabling customers to order a variety of food items, including pizza and burgers and many more.🌐 [Chef Restaurant Website](https://fancy-queijadas-88c8dc.netlify.app/)
-
-Technology Used : Tailwind Css, Material Tailwind, React Js, JWT,Firebase Authentication, Express Js, & MongoDB
-
-## Top Features Of Chef Restaurant
-
-<ul>
-<li>User login Authentication</li>
-<li>User can search food by the name of the item</li>
-<li>Pagination in all the food page for better user experience</li>
-</ul>
-<br/>
-
-## 📚Event Academia Website
-
-EventAcademia is a comprehensive platform dedicated to educational and training events that cater to a wide range of interests and fields of study.🌐 [Event Academia](https://luxury-praline-1bfd6d.netlify.app/)
-
-
-Technology Used : Material Tailwind, React js, FirebaseAuthentication, Express js, JWT & Mongodb
-
-
-## Features of EventAcademia
-
-<ul>
-
-<li>User login Authentication </li>
-<li>AOS animation for better user experience</li>
-<li>Shopping cart based on the user email</li
-
-</ul>
-
-<br/>
 
 
 
