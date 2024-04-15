@@ -1,5 +1,5 @@
 
-![Black and  White Gradient Personal LinkedIn Banner](https://github.com/hr-safin/hr-safin/assets/116538557/09ee976e-e357-4952-9f95-2d8a40f28206)
+![Github README MD Banner](https://github.com/hr-safin/hr-safin/assets/116538557/bb68cb7a-71a9-4645-b633-255eff9c34bf)
 
 
 
