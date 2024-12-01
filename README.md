@@ -6,11 +6,11 @@
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
 <p>
 
-<p>Welcome to my github! I'm  a MERN Stack Developer with a love for crafting efficient and scalable web applications. My toolbox includes MongoDB for flexible data storage, Express.js for seamless server-side development, React.js for building dynamic user interfaces, and Node.js for high-performance server applications.
+<p>Welcome to my GitHub! I'm a MERN Stack Developer passionate about building efficient and scalable web applications. My expertise lies in MongoDB, Express.js, React.js, and Node.js, enabling seamless integration of front-end and back-end technologies.
 
-🔧 In my coding journey, I specialize in optimizing database queries, designing robust RESTful APIs, and creating responsive user interfaces that enhance the overall user experience. I thrive on the seamless integration of frontend and backend technologies, making the MERN stack my playground for innovation.
+🔧 I specialize in designing robust RESTful APIs, optimizing database queries, and crafting responsive user interfaces for enhanced user experiences.
 
-💡 Constantly evolving and staying ahead of the curve, I'm passionate about adopting the latest trends and best practices in web development. My goal is to not just write code but to architect solutions that stand out in terms of efficiency, scalability, and user satisfaction.
+💡 Currently learning Full Stack Development, I aim to stay ahead by adopting the latest trends and best practices in web development. My goal is to deliver solutions that are efficient, scalable, and user-focused.
 
 🌐 Let's connect and build something awesome together! </p>
 
@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,typescript,express,firebase,mongodb,nextjs" /><br>
 </div>
 
 
