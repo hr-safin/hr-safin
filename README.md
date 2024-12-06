@@ -6,16 +6,9 @@
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
 <p>
 
-<p>Welcome to my GitHub! I'm a MERN Stack Developer passionate about building efficient and scalable web applications. My expertise lies in MongoDB, Express.js, React.js, and Node.js, enabling seamless integration of front-end and back-end technologies.
-
-🔧 I specialize in designing robust RESTful APIs, optimizing database queries, and crafting responsive user interfaces for enhanced user experiences.
-
-💡 Currently learning Full Stack Development, I aim to stay ahead by adopting the latest trends and best practices in web development. My goal is to deliver solutions that are efficient, scalable, and user-focused.
+<p>Welcome to my GitHub! I'm learning to become a Full-Stack Developer. I am passionate about building efficient and scalable web applications. My expertise lies in MongoDB, Express.js, React.js, and Node.js, enabling seamless integration of front-end and back-end technologies. I specialize in designing robust RESTful APIs, optimizing database queries, and crafting responsive user interfaces for enhanced user experiences.
 
 🌐 Let's connect and build something awesome together! </p>
-
-
-  
 
 </p>
 
@@ -35,7 +28,7 @@
  <hr/>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
