@@ -32,18 +32,18 @@ Welcome to my GitHub! I'm a web developer passionate about building efficient an
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrsafinshow_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsafin&theme=radical" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsafin&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <h2 align="center">🔝 Featured Project: Two Sum Solver</h2>
 <div align="center">
-  <a href="https://github.com/your-username/two-sum-solver">
+  <a href="https://github.com/hrsafin/two-sum-solver">
     <img src="https://img.shields.io/badge/C-Project-blue?style=for-the-badge&logo=c" />
   </a>
 </div>
