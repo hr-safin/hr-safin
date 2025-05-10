@@ -7,9 +7,8 @@
 
  
 
- | My Info | ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif) |
-|--------|:--:|
-| - 🌱 Currently learning DSA, Web Development, Software Engineering  <br> - 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux  <br> - 🔐 Website Penetration Testing & security tools  <br> - 🤖 Exploring AI-Integrated Web Development  <br> - 💬 Ask me about C++, DSA, JavaScript, Python, ML  <br> - 📧 hasiburrahmansafin76@gmail.com |  |
+| 🌱 Currently learning DSA, Web Development, Software Engineering  <br> 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux  <br> 🔐 Website Penetration Testing & security tools  <br> 🤖 Exploring AI-Integrated Web Development  <br> 💬 Ask me about C++, DSA, JavaScript, Python, ML  <br> 📧 hasiburrahmansafin76@gmail.com | ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif) |
+|---|---|
 
 
 <h2 align="center">⚒️ About Me ⚒️</h2>
