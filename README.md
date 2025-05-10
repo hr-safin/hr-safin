@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center">⚒️ About Me ⚒️</h2>
+<h2 align="center">🌍 About Me </h2>
 <h4 align="center">Welcome to my GitHub! I'm a web developer passionate about crafting efficient and scalable web applications. With expertise in MongoDB, Express.js, React.js, and Node.js, I build seamless full-stack solutions, specializing in robust RESTful APIs, optimized database queries, and responsive user interfaces. Currently, I'm deepening my knowledge in software engineering, Data Structures and Algorithms (DSA), and databases, while actively practicing competitive programming. Looking ahead, I’m excited to explore machine learning to create intelligent, data-driven applications. Let’s connect and build something innovative together! </h4>
 
 <br/>
