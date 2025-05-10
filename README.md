@@ -4,26 +4,13 @@
 
 
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
-<p>
+
  
 
- <div style="display: flex; align-items: center; gap: 20px; width: 100%;">
-  <div style="flex: 1;">
-    
-    
-    - 🌱 Currently learning DSA, Web Development, Software Engineering  
-    - 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux  
-    - 🔐 Website Penetration Testing & security tools  
-    - 🤖 Exploring AI-Integrated Web Development  
-    - 💬 Ask me about C++, DSA, JavaScript, Python, ML  
-    - 📧 hasiburrahmansafin76@gmail.com  
-    
-  </div>
-  
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="80%" alt="Coding GIF"/>
-  </div>
-</div>
+ | My Info | ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif) |
+|--------|:--:|
+| - 🌱 Currently learning DSA, Web Development, Software Engineering  <br> - 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux  <br> - 🔐 Website Penetration Testing & security tools  <br> - 🤖 Exploring AI-Integrated Web Development  <br> - 💬 Ask me about C++, DSA, JavaScript, Python, ML  <br> - 📧 hasiburrahmansafin76@gmail.com |  |
+
 
 <h2 align="center">⚒️ About Me ⚒️</h2>
 <h4 align="center">Welcome to my GitHub! I'm a web developer passionate about crafting efficient and scalable web applications. With expertise in MongoDB, Express.js, React.js, and Node.js, I build seamless full-stack solutions, specializing in robust RESTful APIs, optimized database queries, and responsive user interfaces. Currently, I'm deepening my knowledge in software engineering, Data Structures and Algorithms (DSA), and databases, while actively practicing competitive programming. Looking ahead, I’m excited to explore machine learning to create intelligent, data-driven applications. Let’s connect and build something innovative together! </h4>
