@@ -6,9 +6,9 @@
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
 <p>
 
-<h3>Welcome to my GitHub! I'm a web developer passionate about crafting efficient and scalable web applications. With expertise in MongoDB, Express.js, React.js, and Node.js, I build seamless full-stack solutions, specializing in robust RESTful APIs, optimized database queries, and responsive user interfaces. Currently, I'm deepening my knowledge in software engineering, Data Structures and Algorithms (DSA), and databases, while actively practicing competitive programming. Looking ahead, I’m excited to explore machine learning to create intelligent, data-driven applications. Let’s connect and build something innovative together!
-
-🌐 Let's connect and build something awesome together! </h3>
+<h3 align="left">Welcome to my GitHub! I'm a web developer passionate about crafting efficient and scalable web applications. With expertise in MongoDB, Express.js, React.js, and Node.js, I build seamless full-stack solutions, specializing in robust RESTful APIs, optimized database queries, and responsive user interfaces. Currently, I'm deepening my knowledge in software engineering, Data Structures and Algorithms (DSA), and databases, while actively practicing competitive programming. Looking ahead, I’m excited to explore machine learning to create intelligent, data-driven applications. Let’s connect and build something innovative together! </h3>
+<br/>
+<p align="center">🌐 Let's connect and build something awesome together! </p>
 
 </p>
 
