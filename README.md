@@ -7,19 +7,22 @@
 
  
 
-<p align="left">
-  <ul>
-    <li>🌱 Currently learning DSA, Web Development, Software Engineering</li>
-    <li>🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux</li>
-    <li>🔐 Website Penetration Testing & security tools</li>
-    <li>🤖 Exploring AI-Integrated Web Development</li>
-    <li>💬 Ask me about C++, DSA, JavaScript, Python, ML</li>
-    <li>📧 hasiburrahmansafin76@gmail.com</li>
-  </ul>
-</p>
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600">
-</p>
+<div>
+  <div style="display: inline-block; vertical-align: top; width: 60%;">
+    <ul>
+      <li>🌱 Currently learning DSA, Web Development, Software Engineering</li>
+      <li>🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux</li>
+      <li>🔐 Website Penetration Testing & security tools</li>
+      <li>🤖 Exploring AI-Integrated Web Development</li>
+      <li>💬 Ask me about C++, DSA, JavaScript, Python, ML</li>
+      <li>📧 hasiburrahmansafin76@gmail.com</li>
+    </ul>
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 38%;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+  </div>
+</div>
+
 
 
 
