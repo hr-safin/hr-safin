@@ -8,19 +8,21 @@
  
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
 
 - 🌱 Currently learning DSA, Web Development, Software Engineering  
-- 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js  
+- 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux 
 - 🔐 Website Penetration Testing & security tools  
 - 🤖 Exploring AI-Integrated Web Development  
-- 💬 Ask me about C++, DSA, JavaScript, Python, ML/NLP  
-- 📧 hasiburrahmansafin76@gmail.com  
+- 💬 Ask me about C++, DSA, JavaScript, Python, ML  
+- 📧 hasiburrahmansafin76@gmail.com
+
+  
 
 [![Projects](https://img.shields.io/badge/View-My_Projects-blue)](#)
     </td>
     <td width="40%" valign="top">
-      <img src="your-gif.gif" width="100%" alt="Coding GIF"/>
+      [<img src="your-gif.gif" width="100%" alt="Coding GIF"/>](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
     </td>
   </tr>
 </table>
