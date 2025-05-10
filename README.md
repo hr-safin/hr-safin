@@ -18,7 +18,6 @@
     - 💬 Ask me about C++, DSA, JavaScript, Python, ML  
     - 📧 hasiburrahmansafin76@gmail.com  
     
-    [![Projects](https://img.shields.io/badge/View-My_Projects-blue)](#)
   </div>
   
   <div style="flex: 1; text-align: right;">
