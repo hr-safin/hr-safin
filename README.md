@@ -7,22 +7,23 @@
 <p>
  
 
- <div width="100%">
-
-- 🌱 Currently learning DSA, Web Development, Software Engineering  
-- 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux 
-- 🔐 Website Penetration Testing & security tools  
-- 🤖 Exploring AI-Integrated Web Development  
-- 💬 Ask me about C++, DSA, JavaScript, Python, ML  
-- 📧 hasiburrahmansafin76@gmail.com
-
-  
-
-[![Projects](https://img.shields.io/badge/View-My_Projects-blue)](#)
+ <div style="display: flex; align-items: center; gap: 20px; width: 100%;">
+  <div style="flex: 1;">
     
-   <div width="40%" valign="top">
-      [<img src="your-gif.gif" width="100%" alt="Coding GIF"/>](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
-    </div>
+    
+    - 🌱 Currently learning DSA, Web Development, Software Engineering  
+    - 🎨 Full-stack experience with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, Redux  
+    - 🔐 Website Penetration Testing & security tools  
+    - 🤖 Exploring AI-Integrated Web Development  
+    - 💬 Ask me about C++, DSA, JavaScript, Python, ML  
+    - 📧 hasiburrahmansafin76@gmail.com  
+    
+    [![Projects](https://img.shields.io/badge/View-My_Projects-blue)](#)
+  </div>
+  
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="80%" alt="Coding GIF"/>
+  </div>
 </div>
 
 <h2 align="center">⚒️ About Me ⚒️</h2>
