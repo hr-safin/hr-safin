@@ -38,18 +38,11 @@
 
 <h2 align="center">⚒️ Tech-Stack ⚒️</h2>
 <br/>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <button style="border: none; background: #f0f0f0; padding: 10px; border-radius: 8px; cursor: pointer;">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-    </button>
-    <button style="border: none; background: #f0f0f0; padding: 10px; border-radius: 8px; cursor: pointer;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    </button>
-    <button style="border: none; background: #f0f0f0; padding: 10px; border-radius: 8px; cursor: pointer;">
-        <img src="https://skillicons.dev/icons?i=mui" alt="MUI" />
-    </button>
-    <!-- Repeat for other icons -->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,typescript,express,firebase,mongodb,nextjs,c,cpp,mysql" /><br>
 </div>
+
 
 
 
@@ -64,7 +57,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=hr-safin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=hr-safin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
 
 </div>
@@ -72,14 +65,14 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hr-safin&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hr-safin&theme=transparent&hide_border=false)
 
 </div>
 
 
 <div align="center" >
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-safin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-safin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -93,12 +86,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=hr-safin&limit=5&theme=radical&combine_all_yearly_contributions=true)
-</div>
-
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+![](https://github-contributor-stats.vercel.app/api?username=hr-safin&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 </div>
 
 <br/>
