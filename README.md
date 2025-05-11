@@ -1,6 +1,6 @@
 
 <h1 align="center" style="color: #009FBD; font-weight:bold">👋 Hi, I am Hasibur Rahman Safin</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFjcTk3dHJrbnR2OWoyMjhnc29uenU5bjl2MnRsdjFmaGxmY25rYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
 
@@ -21,7 +21,6 @@
 
 </p>
 
-
  <div align="center"> 
   <a href="mailto:pedro.sales.hasiburrahmansafin76@gmail.com ">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -39,10 +38,19 @@
 
 <h2 align="center">⚒️ Tech-Stack ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,typescript,express,firebase,mongodb,nextjs,c,cpp,mysql" /><br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <button style="border: none; background: #f0f0f0; padding: 10px; border-radius: 8px; cursor: pointer;">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    </button>
+    <button style="border: none; background: #f0f0f0; padding: 10px; border-radius: 8px; cursor: pointer;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    </button>
+    <button style="border: none; background: #f0f0f0; padding: 10px; border-radius: 8px; cursor: pointer;">
+        <img src="https://skillicons.dev/icons?i=mui" alt="MUI" />
+    </button>
+    <!-- Repeat for other icons -->
 </div>
+
 
 
 
