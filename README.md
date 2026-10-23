@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://hasibur-rahman-safin.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=760&height=40&lines=Full+Stack+Developer;AI+Engineering+Learner+%F0%9F%A4%96;Building+scalable+web+apps+using+Next.js%2C+TypeScript+%26+PostgreSQL" alt="Typing SVG" /></a>
+  <a href="https://hasibur-rahman-safin.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=22C55E&center=true&vCenter=true&repeat=true&width=820&height=45&lines=AI+Engineering+Learner;Building+scalable+web+apps+with+Next.js%2C+TypeScript+%26+PostgreSQL;Open+to+freelance+%26+remote+opportunities" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -52,47 +52,47 @@ const safin = {
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat&logo=cplusplus&logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3A8DDE" alt="TypeScript" />
 </p>
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat&logo=redux&logoColor=A778E0" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/GSAP-0D1117?style=flat&logo=greensock&logoColor=88CE02" alt="GSAP" />
   <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat&logo=bootstrap&logoColor=A56EFF" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Ant_Design-0D1117?style=flat&logo=antdesign&logoColor=0170FE" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/DaisyUI-0D1117?style=flat&logo=daisyui&logoColor=A78BFA" alt="DaisyUI" />
 </p>
 
 <h4 align="center">Backend &amp; Databases</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=6CC24A" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Convex-0D1117?style=flat&logo=convex&logoColor=EE342F" alt="Convex" />
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=6B9BFF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb&logoColor=4DB33D" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat&logo=mongoose&logoColor=E03C3C" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=4F9BD0" alt="MySQL" />
 </p>
 
 <h4 align="center">AI-Assisted Dev Tools</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-0D1117?style=flat&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-0D1117?style=flat&logo=google&logoColor=4285F4" alt="Antigravity" />
 </p>
 
 ---
