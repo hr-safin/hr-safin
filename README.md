@@ -52,47 +52,51 @@ const safin = {
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-0D1117?style=flat&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat&logo=cplusplus&logoColor=659AD2" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3A8DDE" alt="TypeScript" />
+  <img height="34" src="https://img.shields.io/badge/C-Systems-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117" alt="C" />
+  <img height="34" src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=659AD2&labelColor=0D1117" alt="C++" />
+  <img height="34" src="https://img.shields.io/badge/Python-AI_%2F_ML-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117" alt="Python" />
+  <br/>
+  <img height="34" src="https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117" alt="Java" />
+  <img height="34" src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript" />
+  <img height="34" src="https://img.shields.io/badge/TypeScript-Typed_JS-3178C6?style=for-the-badge&logo=typescript&logoColor=3A8DDE&labelColor=0D1117" alt="TypeScript" />
 </p>
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=flat&logo=redux&logoColor=A778E0" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/GSAP-0D1117?style=flat&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img height="34" src="https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React" />
+  <img height="34" src="https://img.shields.io/badge/Next.js-Framework-262626?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=0D1117" alt="Next.js" />
+  <img height="34" src="https://img.shields.io/badge/Redux_Toolkit-State-764ABC?style=for-the-badge&logo=redux&logoColor=A778E0&labelColor=0D1117" alt="Redux Toolkit" />
   <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat&logo=bootstrap&logoColor=A56EFF" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Ant_Design-0D1117?style=flat&logo=antdesign&logoColor=0170FE" alt="Ant Design" />
-  <img src="https://img.shields.io/badge/DaisyUI-0D1117?style=flat&logo=daisyui&logoColor=A78BFA" alt="DaisyUI" />
+  <img height="34" src="https://img.shields.io/badge/TanStack_Query-Data_Fetching-FF4154?style=for-the-badge&logo=reactquery&logoColor=FF4154&labelColor=0D1117" alt="TanStack Query" />
+  <img height="34" src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=88CE02&labelColor=0D1117" alt="GSAP" />
+  <img height="34" src="https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=0D1117" alt="Tailwind CSS" />
+  <br/>
+  <img height="34" src="https://img.shields.io/badge/Bootstrap-Styling-7952B3?style=for-the-badge&logo=bootstrap&logoColor=A56EFF&labelColor=0D1117" alt="Bootstrap" />
+  <img height="34" src="https://img.shields.io/badge/shadcn%2Fui-Components-3F3F46?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF&labelColor=0D1117" alt="shadcn/ui" />
+  <br/>
+  <img height="34" src="https://img.shields.io/badge/Ant_Design-Components-0170FE?style=for-the-badge&logo=antdesign&logoColor=0170FE&labelColor=0D1117" alt="Ant Design" />
+  <img height="34" src="https://img.shields.io/badge/DaisyUI-Components-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=A78BFA&labelColor=0D1117" alt="DaisyUI" />
 </p>
 
 <h4 align="center">Backend &amp; Databases</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=6CC24A" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Convex-0D1117?style=flat&logo=convex&logoColor=EE342F" alt="Convex" />
-  <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+  <img height="34" src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=6CC24A&labelColor=0D1117" alt="Node.js" />
+  <img height="34" src="https://img.shields.io/badge/Express.js-Framework-404040?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=0D1117" alt="Express.js" />
+  <img height="34" src="https://img.shields.io/badge/Convex-Backend-EE342F?style=for-the-badge&logo=convex&logoColor=EE342F&labelColor=0D1117" alt="Convex" />
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=6B9BFF" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb&logoColor=4DB33D" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat&logo=mongoose&logoColor=E03C3C" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=4F9BD0" alt="MySQL" />
+  <img height="34" src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=FFFFFF&labelColor=0D1117" alt="Prisma" />
+  <img height="34" src="https://img.shields.io/badge/PostgreSQL-SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=6B9BFF&labelColor=0D1117" alt="PostgreSQL" />
+  <img height="34" src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=0D1117" alt="MongoDB" />
+  <br/>
+  <img height="34" src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongoose&logoColor=E03C3C&labelColor=0D1117" alt="Mongoose" />
+  <img height="34" src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4F9BD0&labelColor=0D1117" alt="MySQL" />
 </p>
 
 <h4 align="center">AI-Assisted Dev Tools</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat&logo=claude&logoColor=D97757" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Cursor-0D1117?style=flat&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Antigravity-0D1117?style=flat&logo=google&logoColor=4285F4" alt="Antigravity" />
+  <img height="34" src="https://img.shields.io/badge/Claude_Code-AI_Coding-D97757?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=0D1117" alt="Claude Code" />
+  <img height="34" src="https://img.shields.io/badge/Cursor-AI_IDE-3F3F46?style=for-the-badge&logo=cursor&logoColor=FFFFFF&labelColor=0D1117" alt="Cursor" />
+  <img height="34" src="https://img.shields.io/badge/Antigravity-AI_IDE-4285F4?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=0D1117" alt="Antigravity" />
 </p>
 
 ---
